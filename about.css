@@ -1,0 +1,11 @@
+body {
+ background-color: antiquewhite;
+ margin:12px;
+ padding: 10px;
+ border: 9px;
+}
+.me {
+    list-style-type: georgian;
+    margin: 0;
+    padding: 0;
+}
